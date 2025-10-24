@@ -2,7 +2,7 @@ streamlit
 openai
 pyvis 
 pandas
-SentenceTransformer
+Sentence-Transformer
 pdfkit
 markdown
 requests
